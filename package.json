@@ -1,6 +1,7 @@
 {
   "name": "@salte-auth/azure",
   "version": "3.0.1",
+  "browser": "dist/azure.min.js",
   "main": "dist/azure.min.js",
   "module": "dist/azure.min.mjs",
   "types": "dist/azure.d.ts",
